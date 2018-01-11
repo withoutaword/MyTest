@@ -1,4 +1,5 @@
 test add branch dev01 
 and commit 
-
-Coder B try to change this file too. will commit fail. 
+ 
+Coder B try to change this file too. will commit fail.  
+coder A change this file. 
