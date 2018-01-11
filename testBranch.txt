@@ -1,2 +1,4 @@
 test add branch dev01 
 and commit 
+
+Coder B try to change this file too. will commit fail. 
